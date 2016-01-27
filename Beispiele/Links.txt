@@ -11,4 +11,4 @@ Glyphicon cheatsheet:
 http://glyphicons.bootstrapcheatsheets.com/
 
 Fontawesome cheatsheet:
-http://fontawesome.bootstrapcheatsheets.com/
+http://fontawesome.bootstrapcheatsheets.com
